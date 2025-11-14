@@ -1,3 +1,16 @@
+# **PROVENANCE NOTICE**
+
+---
+
+**Source Repository and Reference commit:**  
+https://github.com/gorkavillara/16-feb-react-grupo-1/commit/9bb94c5ebf7c749c109be33cf865dee911ba8753
+
+**Note:**  
+To comply with double-blind review requirements, this fork’s commit history was anonymized. The transformed and instrumented codes included in this repository were produced from this reference commit.
+
+---
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
